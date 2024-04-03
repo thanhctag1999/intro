@@ -1,4 +1,4 @@
-<!-- Level 3: Add custom code -->
+![image](https://github.com/thanhctag1999/intro/assets/71964825/9f732a53-9cc1-49fd-ad97-021b4c7a659f)<!-- Level 3: Add custom code -->
 ![background](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
 # 👋 Hi, I'm Mai Huynh Hanh!
 👩🏻‍💻 I am a motivated software engineer, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.h<br/>
@@ -20,8 +20,7 @@
 ![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Lite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)<br/>
-![Firebase](https://img.shields.io/npm/v/firebase.svg?logo=firebase)
-![OneSignal](https://www.drupal.org/files/project-images/OneSignal-Logo.png)<br/>
+![Firebase](https://img.shields.io/badge/firebase.svg?style=for-the-badge&logo=firebase&logoColor=white)<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)

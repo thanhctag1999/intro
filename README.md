@@ -20,10 +20,11 @@
 ![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Lite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)<br/>
-![Firebase](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn6VlGgh3GSAAFqL6c6Cj-t30lNYMHWa9t9aMe1uZP&s)
+![Firebase](https://img.shields.io/npm/v/firebase.svg?logo=firebase)
 ![OneSignal](https://www.drupal.org/files/project-images/OneSignal-Logo.png)<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 # 💻 Featured Projects
 [![5 things I wish I knew before studying Computer Science](https://play.google.com/store/apps/details?id=vn.liink.xskt_cantho&hl=en-VN)

@@ -20,6 +20,8 @@
 ![My SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Lite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)<br/>
+![Firebase](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn6VlGgh3GSAAFqL6c6Cj-t30lNYMHWa9t9aMe1uZP&s)
+![OneSignal](https://www.drupal.org/files/project-images/OneSignal-Logo.png)<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 

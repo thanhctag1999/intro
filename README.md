@@ -24,6 +24,6 @@
 ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 # 💻 Featured Projects
-<img src="https://github.com/thanhctag1999/shop_ui_kit/blob/main/screenshot/home.png" alt="Flutter Shop UI" width="300" height="700">
+<img src="https://github.com/thanhctag1999/shop_ui_kit/blob/main/screenshot/home.png" alt="Flutter Shop UI" width="300" height="600">
 
 

@@ -26,7 +26,8 @@
 # 💻 Featured Projects
 
 
-![Flutter Shop UI](https://github.com/thanhctag1999/shop_ui_kit/blob/main/screenshot/home.png)
+![Flutter Shop UI]
+<img src="https://github.com/thanhctag1999/shop_ui_kit/blob/main/screenshot/home.png" alt="Flutter Shop UI" width="300" height="600">
 
 [Check out the project](https://github.com/thanhctag1999/shop_ui_kit)
 
